@@ -1,4 +1,4 @@
-# [React Native](https://facebook.github.io/react-native/) &middot; 
+# [React Native](https://facebook.github.io/react-native/)
 
 React Native Facebook Master Class Workshop Example App
 
