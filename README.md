@@ -3,6 +3,7 @@
 React Native Facebook Master Class Workshop Example App
 
 ![](https://preview.ibb.co/hZMdMk/Screen_Shot_2017_08_26_at_22_57_43.png =100x20)
+<img src="https://preview.ibb.co/hZMdMk/Screen_Shot_2017_08_26_at_22_57_43.png" width="20%">
 ![](https://preview.ibb.co/dj9b7Q/Screen_Shot_2017_08_26_at_22_56_25.png)
 ![](https://preview.ibb.co/fp9b7Q/Screen_Shot_2017_08_26_at_22_56_55.png)
 ![](https://preview.ibb.co/fp9b7Q/Screen_Shot_2017_08_26_at_22_56_03.png)
